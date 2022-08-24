@@ -13,6 +13,7 @@ def jogar():
     
     enforcou = False
     acertou = False
+    erros = 0
 
     print(acertos)
 
